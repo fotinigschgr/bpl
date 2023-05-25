@@ -1,12 +1,10 @@
 
 
-//*******************************************
-// GROUP 8: AUTOMATIC WASTE SORTING MACHINE *
-//MECHATRONICS 2019                         *
-//@GROUP 8                                  *
-//*******************************************
-
-
+//*********************************
+// Recycle+   
+// Esperino EPAL Giannitson
+// BPLus
+//*********************************
 
 #include <Servo.h>
 
